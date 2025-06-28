@@ -1,4 +1,4 @@
-# Databases and Analytics Coursework
+# Databases and Analytics Task
 
 This project demonstrates the application of database and data analytics concepts across three sections:
 
